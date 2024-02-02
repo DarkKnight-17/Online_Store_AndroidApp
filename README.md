@@ -1,4 +1,4 @@
-This is an online shop apllication.
+This is an online shop application.
 
 The first activity that launches is a registration page where a user need to sign up.At the bottom of of the page he/she
 can click "авторизоваться" in order to log in, in case an account already exists.Once the user logs in, they are redirected 
